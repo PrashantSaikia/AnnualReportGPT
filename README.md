@@ -4,7 +4,7 @@ Q&amp;A on 10-K Reports
 # Demo Deployment
 https://2ed04bed0ff711d80b.gradio.live
 
-# Steps for Kubernetes Deployment
+# Steps for Kubernetes Deployment in GCP
 
 Source: https://cloud.google.com/build/docs/build-push-docker-image
 
