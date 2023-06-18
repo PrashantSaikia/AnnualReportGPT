@@ -1,0 +1,7 @@
+gradio
+langchain
+unstructured
+openai
+chromadb
+unstructured
+tiktoken
