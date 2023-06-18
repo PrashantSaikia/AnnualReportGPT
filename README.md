@@ -1,15 +1,14 @@
 # AnnualReportGPT
 Q&amp;A on 10-K Reports
 
+https://2ed04bed0ff711d80b.gradio.live
+
 # Usage
 ```
 git clone https://github.com/PrashantSaikia/AnnualReportGPT.git
 pip install -r requirements.txt
 python run app.py
 ```
-
-# Demo Deployment
-https://2ed04bed0ff711d80b.gradio.live
 
 # Steps for Kubernetes Deployment in GCP
 
