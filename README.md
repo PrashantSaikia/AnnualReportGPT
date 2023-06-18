@@ -1,6 +1,11 @@
 # AnnualReportGPT
 Q&amp;A on 10-K Reports
 
+# Usage
+```
+python run app.py
+```
+
 # Demo Deployment
 https://2ed04bed0ff711d80b.gradio.live
 
