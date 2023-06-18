@@ -3,6 +3,8 @@ Q&amp;A on 10-K Reports
 
 # Usage
 ```
+git clone https://github.com/PrashantSaikia/AnnualReportGPT.git
+pip install -r requirements.txt
 python run app.py
 ```
 
