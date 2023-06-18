@@ -77,3 +77,5 @@ ID                                    CREATE_TIME                DURATION  SOURC
 046ddd31-3670-4771-9336-8919e7098b11  2020-11-05T18:24:02+00:00  15S       gs://gcb-docs-project_cloudbuild/source/1604600641.576884-8153be22c94d438aa86c78abf11403eb.tgz  us-west2-docker.pkg.dev/gcb-docs-project/quickstart-docker-repo/quickstart-image:tag1  SUCCESS
 You've just built quickstart-image using the build config file and pushed the image to Artifact Registry.
 ```
+
+After this, create a Kubernetes cluster in automated mode, give the docker image ID from above, and deploy the cluster. Wait for a few minutes for the cluster to get ready, could be a couple of hours sometimes depending on the location and the traffic, and it should run fine.
