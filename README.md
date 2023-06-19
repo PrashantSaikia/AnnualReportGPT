@@ -1,7 +1,7 @@
 # AnnualReportGPT
 Q&amp;A on 10-K Reports
 
-https://2ed04bed0ff711d80b.gradio.live
+https://huggingface.co/spaces/kristada673/WebDemoLLM
 
 # Usage
 ```
